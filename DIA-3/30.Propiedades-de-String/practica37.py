@@ -1,0 +1,1 @@
+print("Repetición" * 15)
