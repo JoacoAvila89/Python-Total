@@ -10,7 +10,7 @@ for nombres in lista2:
     if nombres.startswith("G"):
         print(nombres)
 
-numeros = [1,2,3,4,5,6,7 ]
+numeros = [1,2,3,4,5,6,7]
 mi_valor = 0
 for numero in numeros:
     mi_valor = mi_valor + numero
